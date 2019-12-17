@@ -1,1 +1,1 @@
-Number of Inversions = 2407905288
+2407905288
